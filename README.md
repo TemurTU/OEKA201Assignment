@@ -1,8 +1,8 @@
-# OEKA201Assignment
+# OEKA201AssignmentTT
 
 ## Insert name of group members here
 
-- `<Inser name of Group member 1> <Student code>`
+- `Temur Tutarashvili <241089>`
 - `...`
 - `...`
 - `<Inser name of Group member N> <Student code>`
